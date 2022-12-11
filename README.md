@@ -15,3 +15,7 @@ Install VS Code by going to [VS Code download](https://code.visualstudio.com/dow
 
 ### If you like the tutorial, please give your feedback on:
 [Feedback Form](https://forms.office.com/r/iWKJpkPLuk)
+
+### If you are new to GitHub and don't know how to use it, download the zip file and view it on your device. You can follow the below image:  
+
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/86184935/206918755-3893fb9c-e81a-4a7e-a0d0-5a021f3ad6dd.png">
