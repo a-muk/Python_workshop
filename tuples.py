@@ -1,0 +1,6 @@
+x = (1, 2, 2, 3, 4, 5, 6)
+print(type(x))
+y = (1,)
+print(type(y))
+print(x[1:4])
+print(x.count(2))
